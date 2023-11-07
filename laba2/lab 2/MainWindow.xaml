@@ -1,0 +1,58 @@
+﻿<Window x:Class="lab_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="stack1">
+            <Button Click="Button_Click">Нажатие на кнопку</Button>
+            <Button Content="Выход" IsCancel="True" Click="escButton_Click"/>
+        </StackPanel>
+
+
+
+        <StackPanel x:Name="stack2" Margin="39">
+            <ToggleButton Click="ToggleButton_Click" Content="Состояние кнопки"/>
+        </StackPanel>
+
+
+        <StackPanel x:Name="stack3" Margin="60" >
+            <CheckBox IsThreeState="True" IsChecked="False" Width="20" Content="False"/>
+            <CheckBox IsThreeState="True" IsChecked="True" Width="20" Content="True"/>
+            <CheckBox x:Name="CheckBox_Null" IsThreeState="True" IsChecked="{x:Null}" Width="20" Content="Null"/>
+        </StackPanel>
+
+
+        <StackPanel x:Name="stack4" Margin="70">
+            <CheckBox x:Name="checkBox" IsChecked="False" Height="20" Content="Флажок"
+                      IsThreeState="True"
+                      Checked="checkBox_Checked"
+                      Unchecked="checkBox_Unchecked"
+                      Indeterminate="checkBox_Indeterminate"/>
+        </StackPanel>
+        <StackPanel x:Name="stack5" Margin="80">
+            
+        </StackPanel>
+
+
+        <StackPanel x:Name="stack6" Margin="100">
+            <RadioButton x:Name="RadioButton_Boot1" GroupName="Boot" Content="Boot1" Checked="RadioButton_Checked"/>
+            <RadioButton x:Name="RadioButton_Boot2" GroupName="Boot" Content="Boot2" Checked="RadioButton_Checked"/>
+            <RadioButton x:Name="RadioButton_Boot3" GroupName="Boot" Content="Boot3" Checked="RadioButton_Checked"/>
+        </StackPanel>
+        <StackPanel Margin="150"> 
+            <Button x:Name="button"/>
+        </StackPanel>
+        <StackPanel x:Name="stack7" Margin="170">
+            <Button Content="Popup" MouseEnter="Button_MouseEnter"/>
+            <Popup x:Name="popup" StaysOpen="False" Placement="Mouse" AllowsTransparency="True">
+                <TextBlock>
+                    бу
+                </TextBlock>
+            </Popup>
+        </StackPanel>
+    </Grid>
+</Window>
