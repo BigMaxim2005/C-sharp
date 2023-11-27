@@ -1,0 +1,21 @@
+﻿<Window x:Class="mishwpf5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mishwpf5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="menuSelector" Grid.Column ="0" RadioButton.Checked ="RadioButton_Click">
+            <RadioButton GroupName="menu" Content="test 1"/>
+            <RadioButton GroupName="menu" Content="test 2"/>
+            <RadioButton GroupName="menu" Content="test 3"/>
+            <RadioButton GroupName="menu" Content="test 4"/>
+            <TextBlock x:Name="textBlock1" Grid.Column="1" Padding="10"/>
+            <Button x:Name="Button" Content="Click" Click="Button_Click"/>
+            <Button x:Name="Button1" Content="Click_1" Click="Button1_Click"/>
+        </StackPanel>
+    </Grid>
+
+</Window>
