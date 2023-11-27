@@ -1,0 +1,45 @@
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe.config
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\bin\Debug\WpfApp9.pdb
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.lref
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.g.resources
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.Properties.Resources.resources
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.exe
+C:\Users\Student\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.pdb
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe.config
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\bin\Debug\WpfApp9.pdb
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.lref
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.g.resources
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.Properties.Resources.resources
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.exe
+C:\Users\Student\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.pdb
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\bin\Debug\WpfApp9.exe.config
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\bin\Debug\WpfApp9.exe
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\bin\Debug\WpfApp9.pdb
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9.csproj.AssemblyReference.cache
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\App.g.cs
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.lref
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\MainWindow.baml
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9.g.resources
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9.Properties.Resources.resources
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9.csproj.GenerateResource.cache
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9.exe
+C:\Users\kirmi\OneDrive\Рабочий стол\УЧЕНИЕ СВЕТ\UCHEBA\3 kurs\c#\laba4\WpfApp9\obj\Debug\WpfApp9.pdb
