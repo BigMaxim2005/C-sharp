@@ -1,0 +1,6 @@
+C:\Users\090\source\repos\ItogLaba\LIB090\bin\Debug\LIB090.dll
+C:\Users\090\source\repos\ItogLaba\LIB090\bin\Debug\LIB090.pdb
+C:\Users\090\source\repos\ItogLaba\LIB090\obj\Debug\LIB090.csproj.AssemblyReference.cache
+C:\Users\090\source\repos\ItogLaba\LIB090\obj\Debug\LIB090.csproj.CoreCompileInputs.cache
+C:\Users\090\source\repos\ItogLaba\LIB090\obj\Debug\LIB090.dll
+C:\Users\090\source\repos\ItogLaba\LIB090\obj\Debug\LIB090.pdb
